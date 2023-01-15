@@ -1,0 +1,3 @@
+- DVC for data versioning
+- we are trying to classify whether the wafers are working or not. It's a binary classification problem with 2 labels 1 and -1
+- 
