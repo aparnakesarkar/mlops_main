@@ -1,3 +1,6 @@
 - DVC for data versioning
 - we are trying to classify whether the wafers are working or not. It's a binary classification problem with 2 labels 1 and -1
-- 
+- dvc
+  - every data file a dvc file is created
+  - each dvc file has a md5 id, size etc
+  - 
